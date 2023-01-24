@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emot
 - 👀 I’m interested in Frontend & web security
-- 🌱 I’m currently learning web security
+- 🌱 I’m currently learning typescript n web security
 - 💞️ I’m looking friends to develop anything together
 - 📫 Reach me on twitter @principiorum
